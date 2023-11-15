@@ -1,7 +1,7 @@
 {
-  "name": "@uniswap/sdk",
+  "name": "monopolyswap-v2-sdk",
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monopolyswap/monopolyswap-sdk.git"
+    "url": "git+https://github.com/monopolyswap/monopolyswap-v2-sdk.git"
   },
   "keywords": [
     "monopolyswap",
