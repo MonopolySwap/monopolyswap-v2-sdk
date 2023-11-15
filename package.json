@@ -62,7 +62,7 @@
   "bugs": {
     "url": "https://github.com/monopolyswap/monopolyswap-v2-sdk/issues"
   },
-  "homepage": "https://github.com/Uniswap/monopolyswap-v2-sdk#readme",
+  "homepage": "https://github.com/monopolyswap/monopolyswap-v2-sdk#readme",
   "directories": {
     "test": "test"
   },
